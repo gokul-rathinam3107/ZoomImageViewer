@@ -2,6 +2,7 @@
   "name": "ZoomImageViewer",
   "version": "0.0.1",
   "private": true,
+  "author": "gokulrathinam147@outlook.com",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
@@ -40,5 +41,14 @@
   },
   "engines": {
     "node": ">=18"
-  }
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gokul-rathinam3107/ZoomImageViewer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gokul-rathinam3107/ZoomImageViewer/issues"
+  },
+  "homepage": "https://github.com/gokul-rathinam3107/ZoomImageViewer"
 }
