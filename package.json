@@ -1,7 +1,7 @@
 {
-  "name": "ZoomImageViewer",
+  "name": "zoom-image-viewer",
   "version": "0.0.2",
-  "private": true,
+  "private": false,
   "author": "gokulrathinam147@outlook.com",
   "scripts": {
     "android": "react-native run-android",
