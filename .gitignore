@@ -64,3 +64,13 @@ yarn-error.log
 
 # testing
 /coverage
+
+.node_modules
+.Android
+.ios
+.vendor
+.vscode
+.bundle
+.npmignore
+.npmrc
+.tsconfig.json
